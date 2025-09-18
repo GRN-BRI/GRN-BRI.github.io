@@ -57,12 +57,7 @@ permalink: /contact-us/
     <p><a href="mailto:P%72e%6D.ch%68et%72%69@%72mit%2Eedu.au">Prem.chhetri@rmit.edu.au</a></p>
   </div>
 
-  <div class="contact-card">
-    <img src="/assets/images/contact-us/ann.png" alt="Dr Ana Casaca">
-    <h3>Dr Ana Casaca</h3>
-    <p><em>Vice-Chairperson & Webmaster</em></p>
-    <p><a href="mailto:%41%6Ea.Casa%63a@worl%64%6Ffshi%70p%69ng.org">Ana.Casaca@worldofshipping.org</a></p>
-  </div>
+
 
   <div class="contact-card">
     <img src="/assets/images/contact-us/Picture45.jpg" alt="Professor Paul Tae-Woo Lee">

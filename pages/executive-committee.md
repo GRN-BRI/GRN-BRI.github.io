@@ -91,13 +91,6 @@ permalink: /executive-committee/
     <p>He leads key projects funded by the National Natural Science Foundation of China focused on traffic demand, urban sustainability, and port logistics optimization.</p>
   </section>
 
-  <section class="executive-card">
-    <img src="/assets/images/executive-committee/Naima.jpg" alt="Naima Saeed">
-    <h2>Naima Saeed</h2>
-    <h3>Network Coordinator<br><small>(Events, Newsletter and Communication)</small></h3>
-    <p>Naima Saeed is Professor in Supply Chain Management at the University of Agder, with visiting scholar experience at multiple global universities including RMIT and University of California, Berkeley.</p>
-    <p>She holds a PhD in Logistics, specializing in Maritime Economics, and has published extensively in top international journals. She has received awards for research excellence and has served as a reviewer and project lead on EU-funded initiatives.</p>
-    <p>Naima has also contributed to developing distance-learning courses and served on Norwegian committees for research methods education.</p>
-  </section>
+
 
 </div>
